@@ -13,9 +13,9 @@ Evangelium non appropriatum
 vide C2a;
 
 [Introitus]
-!Ps 118:85; 118:46;
+!Ps 118:85; 118:46
 v. Narravérunt mihi iníqui fabulatiónes, sed non ut lex tua: ego autem loquébar de testimóniis tuis in conspéctu regum, et non confundébar. (Alleluia, alleluia.)
-!Ps 118:1; 
+!Ps 118:1
 Beáti immaculáti in via, qui ámbulant in lege Dómini.
 &Gloria
 v. Narravérunt mihi iníqui fabulatiónes, sed non ut lex tua: ego autem loquébar de testimóniis tuis in conspéctu regum, et non confundébar. (Alleluia, alleluia.)
@@ -54,7 +54,7 @@ Sequéntia ++ sancti Evangélii secúndum Lucam.
 In illo témpore: Dixit Jesus discípulis suis: Nihil est opértum, quod non revelétur, neque abscónditum, quod non sciátur. Quóniam quæ in ténebris dixístis, in lúmine dicéntur: et quod in aurem locúti estis in cubículis, prædicábitur in tectis. Dico autem vobis amícis meis: Ne terreámini ab his, qui occidunt corpus et post hæc non habent ámplius, quid fáciant. Osténdam autem vobis, quem timeátis: timéte eum, qui, postquam occídent, habet potestátem míttere in gehénnam; ita dico vobis, hunc timéte. Nonne quinque pásseres véneunt dipóndio, et unus ex illis non est in oblivióne coram Deo? Sed et capílli capitis vestri omnes numeráti sunt. Nolíte ergo timére: multis passéribus pluris estis vos. Dico autem vobis: Omnis, quicúmque conféssus fúerit me coram homínibus, et Fílius hóminis confitébitur illum coram Angelis Dei.
 
 [Offertorium]
-!1 Cor 2:2; 
+!1 Cor 2:2
 Non enim judicávi me scire áliquid inter vos, nisi Jesum Christum, et hunc crucifíxum. (Alleluia.)
 
 [Secreta]
@@ -62,7 +62,7 @@ Múnera nostra, Dómine Deus, benígnus súscipe: quorum mirábile mystérium sa
 $Per Dominum
 
 [Communio]
-!2 Tim 4:8;
+!2 Tim 4:8
 Repósita est mihi coróna justítiæ, quam reddet mihi Dóminus in illa die justus judex. (Alleluia)
 
 [Postcommunio]
